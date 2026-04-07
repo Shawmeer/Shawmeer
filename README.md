@@ -1,6 +1,6 @@
 # Samir Khanal 👋
 
-**Mid-Level DevOps Engineer | AWS Certified Solutions Architect**  
+**DevOps Engineer | AWS Certified Solutions Architect**  
 Kathmandu, Nepal
 
 ---
