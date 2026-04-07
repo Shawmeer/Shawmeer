@@ -26,22 +26,25 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJlZmx6MHJsc2dhdnI2c2x5NXJ3djY4N3Ewc3l2dmNmbjA5OXpzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmJMzlXOiI0dq/giphy.gif" width="280" alt="DevOps" />
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Working on Laptop" width="280"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" alt="Working on Laptop" width="280"/>
 </p>
 
 ## About Me
 
-I’m driven by curiosity, continuous learning, and the desire to build scalable, reliable, and automated systems. I dive deep into challenges, experiment with new technologies, and constantly push myself to improve and grow.I aim to go beyond what’s required, constantly improving processes and finding innovative solutions
+I’m driven by curiosity, continuous learning, and the desire to build scalable, reliable, and automated systems. I dive deep into challenges, experiment with new technologies, and constantly push myself to improve and grow. I aim to go beyond what’s required, constantly improving processes and finding innovative solutions
 
-As a AWS Certified DevOps/Cloud Engineer, I design and deploy scalable, reliable, and efficient systems that drive operational excellence. I focus on automating processes, streamlining deployments, and ensuring that applications and infrastructure run smoothly at scale. My work centers on building resilient systems, optimizing performance, and delivering solutions that are both cost-effective and maintainable over the long term.
+As an AWS Certified DevOps/Cloud Engineer, I design and deploy scalable, reliable, and efficient systems that drive operational excellence. I focus on automating processes, streamlining deployments, and ensuring that applications and infrastructure run smoothly at scale. My work centers on building resilient systems, optimizing performance, and delivering solutions that are both cost-effective and maintainable over the long term.
 
 I enjoy writing technical blogs where I share ideas, experiences, and lessons from my work. It allows me to simplify complex problems, connect with like-minded engineers, and continuously grow by learning, reflecting, and contributing to the community.
+
 ---
 
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Tech Banner" />
+</p>
+---
 
-## 🛠️ Skills
-
+## 🛠️ A snapshot of technologies and tools I work with:
 ![Skills](https://camo.githubusercontent.com/96bb4e5f86636b975861e898a75feb21e6768775e5e9bffb0ae2741f0b150982/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6177732c6763702c617a7572652c646f636b65722c6b756265726e657465732c6a656e6b696e732c6769746c61622c676974687562616374696f6e732c7465727261666f726d2c616e7369626c652c707974686f6e2c626173682c6c696e75782c6769742c70726f6d6574686575732c67726166616e612c6e67696e782c7261626269746d712c6b61666b612c68746d6c2c6373732c6a732c6a6176612c63)
 ---
 
