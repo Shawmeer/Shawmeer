@@ -34,49 +34,6 @@ As a DevOps Engineer and AWS Certified Solutions Architect, I design and deploy 
 
 ---
 
-## 🛠 Tech Stack
-
-### Cloud & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-S3-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ECS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RDS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-</p>
-
-### Containers & Orchestration
-<p>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-EKS-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-</p>
-
-### CI/CD & Automation
-<p>
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitLab%20CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS%20CodePipeline-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-</p>
-
-### Monitoring & Logging
-<p>
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=flat&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CloudWatch-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-</p>
-
-### Programming & Scripting
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-</p>
-
----
 
 ## 🛠️ Skills
 
