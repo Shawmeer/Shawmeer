@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80" alt="DevOps" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJlZmx6MHJsc2dhdnI2c2x5NXJ3djY4N3Ewc3l2dmNmbjA5OXpzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmJMzlXOiI0dq/giphy.gif" width="80" alt="DevOps" />
   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Working on Laptop" width="280"/>
 </p>
 
@@ -36,6 +36,7 @@ I’m driven by curiosity, continuous learning, and the desire to build scalable
 
 As a AWS Certified DevOps/Cloud Engineer, I design and deploy scalable, reliable, and efficient systems that drive operational excellence. I focus on automating processes, streamlining deployments, and ensuring that applications and infrastructure run smoothly at scale. My work centers on building resilient systems, optimizing performance, and delivering solutions that are both cost-effective and maintainable over the long term.
 
+I enjoy writing technical blogs where I share ideas, experiences, and lessons from my work. It allows me to simplify complex problems, connect with like-minded engineers, and continuously grow by learning, reflecting, and contributing to the community.
 ---
 
 
