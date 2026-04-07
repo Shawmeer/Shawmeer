@@ -25,9 +25,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" alt="Working on Laptop" width="280"/>
-</p>
+<img src="https://techiexpert.com/wp-content/uploads/2018/11/devops-process.png" alt="DevOps Process" />
 
 ## About Me
 
@@ -36,10 +34,6 @@ I’m driven by curiosity, continuous learning, and the desire to build scalable
 As an AWS Certified DevOps/Cloud Engineer, I design and deploy scalable, reliable, and efficient systems that drive operational excellence. I focus on automating processes, streamlining deployments, and ensuring that applications and infrastructure run smoothly at scale. My work centers on building resilient systems, optimizing performance, and delivering solutions that are both cost-effective and maintainable over the long term.
 
 I enjoy writing technical blogs where I share ideas, experiences, and lessons from my work. It allows me to simplify complex problems, connect with like-minded engineers, and continuously grow by learning, reflecting, and contributing to the community.
-
----
-
-<img src="https://techiexpert.com/wp-content/uploads/2018/11/devops-process.png" alt="DevOps Process" />
 
 ---
 
