@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJlZmx6MHJsc2dhdnI2c2x5NXJ3djY4N3Ewc3l2dmNmbjA5OXpzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmJMzlXOiI0dq/giphy.gif" width="80" alt="DevOps" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJlZmx6MHJsc2dhdnI2c2x5NXJ3djY4N3Ewc3l2dmNmbjA5OXpzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmJMzlXOiI0dq/giphy.gif" width="280" alt="DevOps" />
   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Working on Laptop" width="280"/>
 </p>
 
