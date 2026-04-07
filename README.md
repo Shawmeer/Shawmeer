@@ -25,7 +25,6 @@
 
 ---
 
-<img src="https://techiexpert.com/wp-content/uploads/2018/11/devops-process.png" alt="DevOps Process" />
 
 ## About Me
 
@@ -42,3 +41,4 @@ I enjoy writing technical blogs where I share ideas, experiences, and lessons fr
 ---
 
 
+<img src="https://techiexpert.com/wp-content/uploads/2018/11/devops-process.png" alt="DevOps Process" />
