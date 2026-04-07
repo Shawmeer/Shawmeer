@@ -26,14 +26,18 @@
 ---
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" width="65" alt="DevOps" />
   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Working on Laptop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="65" alt="Kubernetes" />
 </p>
 
 ## About Me
 
 I’m driven by curiosity, continuous learning, and the desire to build scalable, reliable, and automated systems. I dive deep into challenges, experiment with new technologies, and constantly push myself to improve and grow.I aim to go beyond what’s required, constantly improving processes and finding innovative solutions
 
-As a DevOps Engineer and AWS Certified Solutions Architect, I design and deploy scalable, reliable, and efficient systems that drive operational excellence. I focus on automating processes, streamlining deployments, and ensuring that applications and infrastructure run smoothly at scale. My work centers on building resilient systems, optimizing performance, and delivering solutions that are both cost-effective and maintainable over the long term.
+As a AWS Certified DevOps/Cloud Engineer, I design and deploy scalable, reliable, and efficient systems that drive operational excellence. I focus on automating processes, streamlining deployments, and ensuring that applications and infrastructure run smoothly at scale. My work centers on building resilient systems, optimizing performance, and delivering solutions that are both cost-effective and maintainable over the long term.
 
 ---
 
