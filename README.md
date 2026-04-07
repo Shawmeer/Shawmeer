@@ -1,20 +1,12 @@
 # Hi, I'm Samir Khanal! 👋
 
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/samir-khanal-0ab816208/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/sawmeer88">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/shawmeer22/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:snasri898@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Namaste 🙏**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/samir-khanal-0ab816208/)
+[![X](https://img.shields.io/badge/-X-000000?style=social&logo=x)](https://x.com/sawmeer88)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/shawmeer22/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=social&logo=gmail)](mailto:snasri898@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-000000?style=social&logo=google-chrome)](https://khanalsamir.com)
 
 ---
 
@@ -22,7 +14,7 @@
 
 I’m driven by curiosity, continuous learning, and the desire to build scalable, reliable, and automated systems. I dive deep into challenges, experiment with new technologies, and constantly push myself to improve and grow.I aim to go beyond what’s required, constantly improving processes and finding innovative solutions
 
-As a DevOps Engineer and AWS Certified Solutions Architect, I specialize in designing and deploying cloud architectures, implementing CI/CD pipelines, containerizing applications with Docker and Kubernetes, and automating infrastructure with Terraform. I build monitoring and alerting systems for operational excellence, streamline deployments, and focus on creating resilient, cost-effective systems at scale.
+As a DevOps Engineer and AWS Certified Solutions Architect, I design and deploy scalable, reliable, and efficient systems that drive operational excellence. I focus on automating processes, streamlining deployments, and ensuring that applications and infrastructure run smoothly at scale. My work centers on building resilient systems, optimizing performance, and delivering solutions that are both cost-effective and maintainable over the long term.
 
 ---
 
