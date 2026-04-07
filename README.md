@@ -1,4 +1,4 @@
-# Hi, I'm Samir Khanal! 👋
+# Hi, I'm **Samir Khanal!** 👋
 
 **Namaste 🙏**
 
