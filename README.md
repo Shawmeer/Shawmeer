@@ -1,7 +1,7 @@
 # Hi, I'm Samir Khanal! 👋
 
 <p align="center">
-  <img src="https://komarev.com/gits/profile/samir-khanal" alt="Profile Views" />
+  
   <a href="https://www.linkedin.com/in/samir-khanal-0ab816208/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -20,20 +20,9 @@
 
 ## About Me
 
-I'm a **DevOps Engineer** and **AWS Certified Solutions Architect** based in **Kathmandu, Nepal**. I specialize in building scalable, automated cloud infrastructure and streamlining deployment pipelines.
+I’m driven by curiosity, continuous learning, and the desire to build scalable, reliable, and automated systems. I dive deep into challenges, experiment with new technologies, and constantly push myself to improve and grow.I aim to go beyond what’s required, constantly improving processes and finding innovative solutions
 
-**What I do:**
-- Design and deploy cloud architectures on AWS
-- Implement CI/CD pipelines for seamless deployments
-- Containerize applications using Docker and orchestrate with Kubernetes
-- Automate infrastructure as code with Terraform
-- Build monitoring and alerting systems for operational excellence
-
-**I'm passionate about:**
-- ☁️ Cloud-native technologies and serverless architectures
-- 🔄 Infrastructure automation and GitOps workflows
-- 📈 Building resilient, cost-effective systems at scale
-- 📚 Continuous learning and sharing knowledge
+As a DevOps Engineer and AWS Certified Solutions Architect, I specialize in designing and deploying cloud architectures, implementing CI/CD pipelines, containerizing applications with Docker and Kubernetes, and automating infrastructure with Terraform. I build monitoring and alerting systems for operational excellence, streamline deployments, and focus on creating resilient, cost-effective systems at scale.
 
 ---
 
@@ -81,37 +70,6 @@ I'm a **DevOps Engineer** and **AWS Certified Solutions Architect** based in **K
 
 ---
 
- Code with Terraform](https://github.com/yourusername/project2)
-> Automated infrastructure provisioning for a multi-account AWS environment.
-
-**Highlights:**
-- Modular Terraform architecture
-- Multi-environment management using workspaces
-- State management with S3 backend
-- Automated compliance checks
-
-**Tech:** Terraform, AWS, GitHub Actions, Sentinel
-
-[![Project Screenshot](./assets/project2.png)](https://github.com/yourusername/project2)
-
----
-
-### 3. [Cloud Monitoring Dashboard](https://github.com/yourusername/project3)
-> Comprehensive monitoring and alerting solution for cloud workloads using Prometheus and Grafana.
-
-**Highlights:**
-- Real-time metrics collection
-- Custom dashboard visualizations
-- Alert configurations for critical events
-- Integration with multiple data sources
-
-**Tech:** Prometheus, Grafana, ELK Stack, CloudWatch, Lambda
-
-[![Project Screenshot](./assets/project3.png)](https://github.com/yourusername/project3)
-
----
-
-
 
 
 ## 📫 Connect With Me
@@ -135,5 +93,3 @@ I'm a **DevOps Engineer** and **AWS Certified Solutions Architect** based in **K
 </p>
 
 ---
-
-> "Automation, scalability, and reliability are the pillars of modern DevOps."
