@@ -39,9 +39,8 @@ I enjoy writing technical blogs where I share ideas, experiences, and lessons fr
 
 ---
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Tech Banner" />
-</p>
+<img src="https://techiexpert.com/wp-content/uploads/2018/11/devops-process.png" alt="DevOps Process" />
+
 ---
 
 ## 🛠️ A snapshot of technologies and tools I work with:
