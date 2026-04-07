@@ -81,24 +81,7 @@ I'm a **DevOps Engineer** and **AWS Certified Solutions Architect** based in **K
 
 ---
 
-## 🚀 Projects
-
-### 1. [AWS Microservices Deployment](https://github.com/yourusername/project1)
-> Production-ready microservices architecture deployed on AWS ECS with automated CI/CD pipelines.
-
-**Highlights:**
-- Containerized microservices using Docker
-- Deployed on AWS ECS with Fargate
-- Implemented multi-environment deployments (dev/staging/prod)
-- Set up auto-scaling and load balancing
-
-**Tech:** AWS ECS, Docker, GitLab CI/CD, Terraform, CloudWatch
-
-[![Project Screenshot](./assets/project1.png)](https://github.com/yourusername/project1)
-
----
-
-### 2. [Infrastructure as Code with Terraform](https://github.com/yourusername/project2)
+ Code with Terraform](https://github.com/yourusername/project2)
 > Automated infrastructure provisioning for a multi-account AWS environment.
 
 **Highlights:**
@@ -128,23 +111,8 @@ I'm a **DevOps Engineer** and **AWS Certified Solutions Architect** based in **K
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir-khanal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-khanal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
----
-
-## 🤝 Open Source Contributions
-
-| Project | Description | Contribution |
-|---------|-------------|--------------|
-| [terraform-aws-modules](https://github.com/terraform-aws-modules/terraform-aws-eks) | AWS EKS Terraform module | Reported issues, suggested improvements |
-| [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) | Integrate AWS Secrets Manager with Kubernetes | Documentation improvements |
-
----
 
 ## 📫 Connect With Me
 
