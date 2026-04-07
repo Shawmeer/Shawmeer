@@ -2,11 +2,24 @@
 
 **Namaste 🙏**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/samir-khanal-0ab816208/)
-[![X](https://img.shields.io/badge/-X-000000?style=social&logo=x)](https://x.com/sawmeer88)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/shawmeer22/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=social&logo=gmail)](mailto:snasri898@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-000000?style=social&logo=google-chrome)](https://khanalsamir.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/samir-khanal-0ab816208/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/sawmeer88">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/shawmeer22/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:snasri898@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://khanalsamir.com">
+    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
@@ -64,24 +77,5 @@ As a DevOps Engineer and AWS Certified Solutions Architect, I design and deploy 
 
 
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samir-khanal-0ab816208/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/sawmeer88">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/shawmeer22/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:snasri898@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://khanalsamir.com">
-    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
 
 ---
