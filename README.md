@@ -1,9 +1,15 @@
 # Hi, I'm **Samir Khanal!** 👋
 
-**Namaste 🙏**
-
 
 DevOps Engineer | AWS | CI/CD | Cloud Automation
+
+
+---
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/8d4bfc98cec938eae01309e91cc08ca4e8add5b103efce50139b365893704696/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f736f757263652f3036663231613136313932313931392e363363643738383764306137302e676966" alt="Working on Laptop" width="280"/>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/samir-khanal-0ab816208/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,12 +29,6 @@ DevOps Engineer | AWS | CI/CD | Cloud Automation
   <a href="https://khanalsamir.com">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/8d4bfc98cec938eae01309e91cc08ca4e8add5b103efce50139b365893704696/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f736f757263652f3036663231613136313932313931392e363363643738383764306137302e676966" alt="Working on Laptop" width="280"/>
 </p>
 
 ## About Me
