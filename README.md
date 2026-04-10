@@ -26,10 +26,22 @@ DevOps Engineer | AWS | CI/CD | Cloud Automation
   <a href="mailto:snasri898@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://khanalsamir.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+   <a href="https://khanalsamir.com">
+     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+   </a>
 </p>
+
+## 👀 Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/Shawmeer/count.svg)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawmeer&show_icons=true&theme=radical)
+
+![GitHub streak stats](https://streak-stats.demolab.com?user=Shawmeer&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawmeer&theme=radical)
 
 ## About Me
 
@@ -38,6 +50,19 @@ I’m driven by curiosity, continuous learning, and the desire to build scalable
 As an AWS Certified DevOps/Cloud Engineer, I design and deploy scalable, reliable, and efficient systems that drive operational excellence. I focus on automating processes, streamlining deployments, and ensuring that applications and infrastructure run smoothly at scale. My work centers on building resilient systems, optimizing performance, and delivering solutions that are both cost-effective and maintainable over the long term.
 
 I enjoy writing technical blogs where I share ideas, experiences, and lessons from my work. It allows me to simplify complex problems, connect with like-minded engineers, and continuously grow by learning, reflecting, and contributing to the community.
+
+---
+
+## 🚀 Featured Projects
+
+- [PostgreSQL Observability Stack](https://github.com/Shawmeer/postgres-observability-stack) - Complete PostgreSQL monitoring setup with Docker, Grafana, Prometheus, and Loki for comprehensive metrics collection and visualization.
+
+---
+
+## 🏆 Certifications
+
+- **AWS Certified Cloud Practitioner** (2024)
+- **AWS Certified Solutions Architect – Associate** (2026)
 
 ---
 
